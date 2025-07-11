@@ -18,7 +18,7 @@
 			"$0"
 		],
 		"description": "GRE image shortcode"
-	}
+	},
 	"GRE keyword shortcode": {
 		"scope": "markdown",
 		"prefix": ["keyword", "kw"],
