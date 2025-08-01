@@ -70,6 +70,8 @@ Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora
 - {{< keyword "peristyles" >}}
 - {{< keyword "porticoes" >}}
 - {{< keyword "water wells" >}}
+- {{< keyword "agoras" >}}
+
 
 ## Places
 
