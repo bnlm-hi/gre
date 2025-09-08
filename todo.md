@@ -51,20 +51,10 @@
 # Documentation
 
 - installing software on Mac
-    - vscode
-    - git
-        - already installed on MacOS?
-        - git config --global user.name "John Doe"
-        - git config --global user.email johndoe@example.com
     - hugo
         - if brew isn't already installed:
             /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-        - brew install hugo
-        - Or, if using MacPorts: sudo port install hugo
-- use \" to escape any quotes within an image caption
-- workflow for adding new garden/place ("hugo new" requires path, but will set the GRE_ID, etc.)
-- admin info:
-    - document how theme files should be edited (not in mainroad directory!)
+- [ ] use \" to escape any quotes within an image caption
 
 
 # Article Guidelines
