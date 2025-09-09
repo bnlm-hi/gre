@@ -1,5 +1,5 @@
 ---
-gre_id: 63f24ff3d5
+gre_id: "63f24ff3d5"
 aliases: [/id/63f24ff3d5]
 type: garden
 title: Rural Villa in Latimer

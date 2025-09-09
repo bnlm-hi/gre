@@ -1,5 +1,5 @@
 ---
-gre_id: 5de1c69bbd
+gre_id: "5de1c69bbd"
 aliases: [/id/5de1c69bbd]
 type: garden
 title: Rural Villa in Friedberg Pfingstweide

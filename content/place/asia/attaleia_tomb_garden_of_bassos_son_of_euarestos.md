@@ -1,5 +1,5 @@
 ---
-gre_id: 823f7f9201
+gre_id: "823f7f9201"
 aliases: [/id/823f7f9201]
 type: garden
 title: Tomb Garden of Bassos son of Euarestos

@@ -1,5 +1,5 @@
 ---
-gre_id: 6e3a248c40
+gre_id: "6e3a248c40"
 aliases: [/id/6e3a248c40]
 type: garden
 title: Tomb Garden of Anonymous Gaul in Andematunnum

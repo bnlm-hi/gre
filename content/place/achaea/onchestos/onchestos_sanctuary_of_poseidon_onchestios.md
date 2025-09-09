@@ -1,5 +1,5 @@
 ---
-gre_id: a6e56210af
+gre_id: "a6e56210af"
 aliases: [/id/a6e56210af]
 type: garden
 title: Sanctuary of Poseidon Onchestios

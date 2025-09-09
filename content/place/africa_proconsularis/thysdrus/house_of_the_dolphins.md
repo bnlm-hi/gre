@@ -1,5 +1,5 @@
 ---
-gre_id: 2ef0db08ba
+gre_id: "2ef0db08ba"
 aliases: [/id/2ef0db08ba]
 type: garden
 title: House of the Dolphins (Maison des dauphins)

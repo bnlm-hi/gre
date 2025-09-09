@@ -1,5 +1,5 @@
 ---
-gre_id: 208bdd1bc5
+gre_id: "208bdd1bc5"
 aliases: [/id/208bdd1bc5]
 type: garden
 title: Villa de La Cocosa

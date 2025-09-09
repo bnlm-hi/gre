@@ -1,5 +1,5 @@
 ---
-gre_id: 08c7be3e34
+gre_id: "08c7be3e34"
 aliases: [/id/08c7be3e34]
 type: garden
 title: Rural Villa in Ferpicloz

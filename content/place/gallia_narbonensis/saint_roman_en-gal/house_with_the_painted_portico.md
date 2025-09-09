@@ -1,5 +1,5 @@
 ---
-gre_id: 829c927926
+gre_id: "829c927926"
 aliases: [/id/829c927926]
 type: garden
 title: House with the Painted Portico

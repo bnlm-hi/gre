@@ -1,5 +1,5 @@
 ---
-gre_id: 007c015ec1
+gre_id: "007c015ec1"
 aliases: [/id/007c015ec1]
 type: garden
 title: Hercules Musarum

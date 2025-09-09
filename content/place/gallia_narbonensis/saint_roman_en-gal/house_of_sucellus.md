@@ -1,5 +1,5 @@
 ---
-gre_id: 8a35ebb898
+gre_id: "8a35ebb898"
 aliases: [/id/8a35ebb898]
 type: garden
 title: House of Sucellus

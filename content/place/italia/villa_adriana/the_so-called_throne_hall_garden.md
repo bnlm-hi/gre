@@ -1,5 +1,5 @@
 ---
-gre_id: 227ddb6b89
+gre_id: "227ddb6b89"
 aliases: [/id/227ddb6b89]
 type: garden
 title: The so-called Throne Hall garden (Fig. 1, n. 17)

@@ -1,5 +1,5 @@
 ---
-gre_id: de220b930f
+gre_id: "de220b930f"
 aliases: [/id/de220b930f]
 type: garden
 title: House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)

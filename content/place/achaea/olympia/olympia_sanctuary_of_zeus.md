@@ -1,5 +1,5 @@
 ---
-gre_id: b5400dccdb
+gre_id: "b5400dccdb"
 aliases: [/id/b5400dccdb]
 type: garden
 title: Sanctuary of Zeus

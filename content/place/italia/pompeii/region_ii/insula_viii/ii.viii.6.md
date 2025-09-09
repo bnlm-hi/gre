@@ -1,5 +1,5 @@
 ---
-gre_id: f6934aeede
+gre_id: "f6934aeede"
 aliases: [/id/f6934aeede]
 type: garden
 title: II.8.6 House of the Garden of Hercules

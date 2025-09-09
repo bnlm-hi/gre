@@ -1,5 +1,5 @@
 ---
-gre_id: 754214bc20
+gre_id: "754214bc20"
 aliases: [/id/754214bc20]
 type: garden
 title: Enclos Milhaud, House of the Sea god

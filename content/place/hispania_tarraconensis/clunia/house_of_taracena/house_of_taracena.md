@@ -1,5 +1,5 @@
 ---
-gre_id: bd26d0f1d1
+gre_id: "bd26d0f1d1"
 aliases: [/id/bd26d0f1d1]
 type: garden
 title: House of Taracena

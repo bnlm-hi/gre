@@ -1,5 +1,5 @@
 ---
-gre_id: ed31244283
+gre_id: "ed31244283"
 aliases: [/id/ed31244283]
 type: garden
 title: Casa del Colonnato Tuscanico (VI.17/26)

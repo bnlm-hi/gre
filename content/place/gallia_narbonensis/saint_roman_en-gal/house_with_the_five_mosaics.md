@@ -1,5 +1,5 @@
 ---
-gre_id: 66b90ed631
+gre_id: "66b90ed631"
 aliases: [/id/66b90ed631]
 type: garden
 title: House with the Five Mosaics

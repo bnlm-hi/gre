@@ -1,5 +1,5 @@
 ---
-gre_id: 82cc724d9d
+gre_id: "82cc724d9d"
 aliases: [/id/82cc724d9d]
 type: garden
 title: Caesarea Maritima Promontory Palace of Herod the Great

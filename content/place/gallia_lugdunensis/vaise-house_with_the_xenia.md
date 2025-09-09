@@ -1,5 +1,5 @@
 ---
-gre_id: 4fbd9a860e
+gre_id: "4fbd9a860e"
 aliases: [/id/4fbd9a860e]
 type: garden
 title: Vaise - House with the Xenia

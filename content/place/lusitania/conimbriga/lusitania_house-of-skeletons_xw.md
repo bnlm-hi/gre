@@ -1,5 +1,5 @@
 ---
-gre_id: c37c091923
+gre_id: "c37c091923"
 aliases: [/id/c37c091923]
 type: garden
 title: House of the Skeletons

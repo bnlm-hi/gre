@@ -1,5 +1,5 @@
 ---
-gre_id: 57c4491e97
+gre_id: "57c4491e97"
 aliases: [/id/57c4491e97]
 type: garden
 title: Les Basaltes, House A

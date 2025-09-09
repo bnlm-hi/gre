@@ -1,5 +1,5 @@
 ---
-gre_id: e3a26a1b3d
+gre_id: "e3a26a1b3d"
 aliases: [/id/e3a26a1b3d]
 type: garden
 title: Rural Villa in Gorhambury

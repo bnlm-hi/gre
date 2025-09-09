@@ -1,5 +1,5 @@
 ---
-gre_id: 8758362e50
+gre_id: "8758362e50"
 aliases: [/id/8758362e50]
 type: garden
 title: Masada

@@ -1,5 +1,5 @@
 ---
-gre_id: 64d2b66cf2
+gre_id: "64d2b66cf2"
 aliases: [/id/64d2b66cf2]
 type: garden
 title: Villa at Durrueli di Realmonte

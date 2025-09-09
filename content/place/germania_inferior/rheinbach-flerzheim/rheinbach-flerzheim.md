@@ -1,5 +1,5 @@
 ---
-gre_id: b8b53a7d18
+gre_id: "b8b53a7d18"
 aliases: [/id/b8b53a7d18]
 type: garden
 title: Rustic villa at Rheinbach-Flerzheim

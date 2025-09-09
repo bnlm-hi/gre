@@ -1,5 +1,5 @@
 ---
-gre_id: 6c0b726bed
+gre_id: "6c0b726bed"
 aliases: [/id/6c0b726bed]
 type: garden
 title: Domus of the Sea Front (Villa du front de mer)

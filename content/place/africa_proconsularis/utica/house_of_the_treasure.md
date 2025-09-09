@@ -1,5 +1,5 @@
 ---
-gre_id: a89aebd07c
+gre_id: "a89aebd07c"
 aliases: [/id/a89aebd07c]
 type: garden
 title: House of the Treasure (Maison au trésor)

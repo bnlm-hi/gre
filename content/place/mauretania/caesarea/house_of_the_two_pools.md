@@ -1,5 +1,5 @@
 ---
-gre_id: de2bc2a72b
+gre_id: "de2bc2a72b"
 aliases: [/id/de2bc2a72b]
 type: garden
 title: House of the Two Pools (Maison aux Deux Bassins)

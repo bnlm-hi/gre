@@ -1,5 +1,5 @@
 ---
-gre_id: 9d91dd8940
+gre_id: "9d91dd8940"
 aliases: [/id/9d91dd8940]
 type: garden
 title: Jericho Herodian Third Palace Sunken Garden

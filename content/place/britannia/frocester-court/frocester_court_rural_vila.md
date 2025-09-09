@@ -1,5 +1,5 @@
 ---
-gre_id: 8392cb4b65
+gre_id: "8392cb4b65"
 aliases: [/id/8392cb4b65]
 type: garden
 title: Rural Villa in Frocester Court

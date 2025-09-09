@@ -1,5 +1,5 @@
 ---
-gre_id: 9f39ffc68d
+gre_id: "9f39ffc68d"
 aliases: [/id/9f39ffc68d]
 type: place
 title: Gallia Belgica

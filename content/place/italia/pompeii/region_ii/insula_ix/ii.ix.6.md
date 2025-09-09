@@ -1,5 +1,5 @@
 ---
-gre_id: 4b8d3eef52
+gre_id: "4b8d3eef52"
 aliases: [/id/4b8d3eef52]
 type: garden
 title: II.9.6-7 House of Summer Triclinium

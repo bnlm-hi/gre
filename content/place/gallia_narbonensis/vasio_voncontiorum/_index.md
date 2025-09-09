@@ -1,5 +1,5 @@
 ---
-gre_id: b2513be1b7
+gre_id: "b2513be1b7"
 aliases: [/id/b2513be1b7]
 type: place
 title: Vasio Voncontiorum

@@ -1,5 +1,5 @@
 ---
-gre_id: 69616db9b5
+gre_id: "69616db9b5"
 aliases: [/id/69616db9b5]
 type: garden
 title: House of the Muses

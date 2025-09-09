@@ -1,5 +1,5 @@
 ---
-gre_id: 296bb7c93b
+gre_id: "296bb7c93b"
 aliases: [/id/296bb7c93b]
 type: garden
 title: Jericho Twin Palaces of Alexandra Salome and Late Hasmonean Gardens

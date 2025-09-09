@@ -1,5 +1,5 @@
 ---
-gre_id: ba98d6be29
+gre_id: "ba98d6be29"
 aliases: [/id/ba98d6be29]
 type: garden
 title: House of Bacchus and Ariadne (Maison de Bacchus et Ariane)

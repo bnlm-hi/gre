@@ -1,5 +1,5 @@
 ---
-gre_id: a56ec7e41e
+gre_id: "a56ec7e41e"
 aliases: [/id/a56ec7e41e]
 type: garden
 title: I.2.24 Officina Libraria

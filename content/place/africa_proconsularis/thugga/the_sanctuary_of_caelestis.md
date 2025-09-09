@@ -1,5 +1,5 @@
 ---
-gre_id: 66d993c8d4
+gre_id: "66d993c8d4"
 aliases: [/id/66d993c8d4]
 type: garden
 title: The sanctuary of Caelestis

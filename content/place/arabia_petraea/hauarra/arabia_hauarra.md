@@ -1,5 +1,5 @@
 ---
-gre_id: 35fc323d18
+gre_id: "35fc323d18"
 aliases: [/id/35fc323d18]
 type: garden
 title: Shrine Complex in Insula E125

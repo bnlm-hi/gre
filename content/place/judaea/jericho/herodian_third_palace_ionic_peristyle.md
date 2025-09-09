@@ -1,5 +1,5 @@
 ---
-gre_id: dcb105bb0f
+gre_id: "dcb105bb0f"
 aliases: [/id/dcb105bb0f]
 type: garden
 title: Jericho Herodian Third Palace Ionic Peristyle

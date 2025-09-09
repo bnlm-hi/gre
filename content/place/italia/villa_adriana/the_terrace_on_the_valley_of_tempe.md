@@ -1,5 +1,5 @@
 ---
-gre_id: 8b1c9f8136
+gre_id: "8b1c9f8136"
 aliases: [/id/8b1c9f8136]
 type: garden
 title: The terrace on the valley of Tempe (Fig. 1, n. 10)

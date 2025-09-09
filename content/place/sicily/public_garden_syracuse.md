@@ -1,5 +1,5 @@
 ---
-gre_id: 3f0bf85c66
+gre_id: "3f0bf85c66"
 aliases: [/id/3f0bf85c66]
 type: garden
 title: PUBLIC GARDEN Syracuse

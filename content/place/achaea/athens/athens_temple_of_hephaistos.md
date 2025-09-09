@@ -1,5 +1,5 @@
 ---
-gre_id: 2b511a037c
+gre_id: "2b511a037c"
 aliases: [/id/2b511a037c]
 type: garden
 title: Temple of Hephaistos

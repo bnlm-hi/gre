@@ -1,5 +1,5 @@
 ---
-gre_id: ab2e4f0ff3
+gre_id: "ab2e4f0ff3"
 aliases: [/id/ab2e4f0ff3]
 type: garden
 title: I.7.18 Shop-House

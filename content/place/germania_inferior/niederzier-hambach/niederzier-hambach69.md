@@ -1,5 +1,5 @@
 ---
-gre_id: dfee38324f
+gre_id: "dfee38324f"
 aliases: [/id/dfee38324f]
 type: garden
 title: Niederzier Hambach 69

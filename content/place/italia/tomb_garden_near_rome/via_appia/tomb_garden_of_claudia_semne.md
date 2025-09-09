@@ -1,5 +1,5 @@
 ---
-gre_id: 99addb7aff
+gre_id: "99addb7aff"
 aliases: [/id/99addb7aff]
 type: garden
 title: Tomb Garden of Claudia Semne

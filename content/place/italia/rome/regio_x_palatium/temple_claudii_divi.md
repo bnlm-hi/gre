@@ -1,5 +1,5 @@
 ---
-gre_id: 36b18899b0
+gre_id: "36b18899b0"
 aliases: [/id/36b18899b0]
 type: garden
 title: Gardens of the Temple of the Divine Claudius

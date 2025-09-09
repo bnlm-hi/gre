@@ -1,5 +1,5 @@
 ---
-gre_id: 3dadb93d13
+gre_id: "3dadb93d13"
 aliases: [/id/3dadb93d13]
 type: place
 title: Benalmadena Costa

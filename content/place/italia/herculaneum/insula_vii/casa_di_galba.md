@@ -1,5 +1,5 @@
 ---
-gre_id: 49d8a94d53
+gre_id: "49d8a94d53"
 aliases: [/id/49d8a94d53]
 type: garden
 title: Casa di Galba (VII.2)

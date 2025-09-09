@@ -1,5 +1,5 @@
 ---
-gre_id: 78c22fa220
+gre_id: "78c22fa220"
 aliases: [/id/78c22fa220]
 type: garden
 title: Rural Villa in Hummetroth

@@ -1,5 +1,5 @@
 ---
-gre_id: 2237720cc1
+gre_id: "2237720cc1"
 aliases: [/id/2237720cc1]
 type: garden
 title: Palace of the Giants

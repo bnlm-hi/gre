@@ -1,5 +1,5 @@
 ---
-gre_id: 2abc941b5c
+gre_id: "2abc941b5c"
 aliases: [/id/2abc941b5c]
 type: garden
 title: Agora of the Italians

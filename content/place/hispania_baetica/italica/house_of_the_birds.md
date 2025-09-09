@@ -1,5 +1,5 @@
 ---
-gre_id: 73d1a43068
+gre_id: "73d1a43068"
 aliases: [/id/73d1a43068]
 type: garden
 title: House of the Birds

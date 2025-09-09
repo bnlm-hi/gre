@@ -1,5 +1,5 @@
 ---
-gre_id: 0a9a4ef076
+gre_id: "0a9a4ef076"
 aliases: [/id/0a9a4ef076]
 type: garden
 title: Jericho Palace of John Hyrcanus I

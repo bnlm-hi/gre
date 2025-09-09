@@ -1,5 +1,5 @@
 ---
-gre_id: d74ca61040
+gre_id: "d74ca61040"
 aliases: [/id/d74ca61040]
 type: garden
 title: Schola of Trajan

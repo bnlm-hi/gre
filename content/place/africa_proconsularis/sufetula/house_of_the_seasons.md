@@ -1,5 +1,5 @@
 ---
-gre_id: f3db68a29f
+gre_id: "f3db68a29f"
 aliases: [/id/f3db68a29f]
 type: garden
 title: House of the Seasons (La maison des Saisons)

@@ -1,5 +1,5 @@
 ---
-gre_id: c48d798d77
+gre_id: "c48d798d77"
 aliases: [/id/c48d798d77]
 type: garden
 title: House on the Place des Halles (La maison des Halles)

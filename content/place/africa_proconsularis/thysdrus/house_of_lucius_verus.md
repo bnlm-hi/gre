@@ -1,5 +1,5 @@
 ---
-gre_id: 101706da04
+gre_id: "101706da04"
 aliases: [/id/101706da04]
 type: garden
 title: House of the Lucius Verus

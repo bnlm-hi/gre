@@ -1,5 +1,5 @@
 ---
-gre_id: 6d26a46804
+gre_id: "6d26a46804"
 aliases: [/id/6d26a46804]
 type: place
 title: Andance

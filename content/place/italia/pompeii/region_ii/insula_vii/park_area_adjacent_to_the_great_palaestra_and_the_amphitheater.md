@@ -1,5 +1,5 @@
 ---
-gre_id: 940af55b8a
+gre_id: "940af55b8a"
 aliases: [/id/940af55b8a]
 type: garden
 title: Park Area Adjacent to the Great Palaestra and the Amphitheater

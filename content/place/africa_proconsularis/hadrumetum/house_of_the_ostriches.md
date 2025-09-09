@@ -1,5 +1,5 @@
 ---
-gre_id: 6b9b695b66
+gre_id: "6b9b695b66"
 aliases: [/id/6b9b695b66]
 type: garden
 title: House of the Ostriches (Maison des Autruches)

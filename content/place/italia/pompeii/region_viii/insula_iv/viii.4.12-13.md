@@ -1,5 +1,5 @@
 ---
-gre_id: 686a8a8f0a
+gre_id: "686a8a8f0a"
 aliases: [/id/686a8a8f0a]
 type: garden
 title: VIII.4.12-13. Shop-House

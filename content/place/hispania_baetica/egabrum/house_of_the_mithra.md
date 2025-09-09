@@ -1,5 +1,5 @@
 ---
-gre_id: 91325c865c
+gre_id: "91325c865c"
 aliases: [/id/91325c865c]
 type: garden
 title: House of the Mithra

@@ -1,5 +1,5 @@
 ---
-gre_id: ebb899d747
+gre_id: "ebb899d747"
 aliases: [/id/ebb899d747]
 type: place
 title: Die

@@ -1,5 +1,5 @@
 ---
-gre_id: 59bccb9d15
+gre_id: "59bccb9d15"
 aliases: [/id/59bccb9d15]
 type: garden
 title: VIII.7.30. The Triangular Forum

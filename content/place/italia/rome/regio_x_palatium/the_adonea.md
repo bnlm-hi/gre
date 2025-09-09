@@ -1,5 +1,5 @@
 ---
-gre_id: 4a1a7a53e6
+gre_id: "4a1a7a53e6"
 aliases: [/id/4a1a7a53e6]
 type: garden
 title: The Adonea of the Flavian Palace, Palatine

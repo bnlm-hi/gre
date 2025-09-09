@@ -1,5 +1,5 @@
 ---
-gre_id: 0760fafa27
+gre_id: "0760fafa27"
 aliases: [/id/0760fafa27]
 type: garden
 title: Palace nymphaeum (Fig. 1, n. 16)

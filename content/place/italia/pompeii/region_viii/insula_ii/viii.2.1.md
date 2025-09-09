@@ -1,5 +1,5 @@
 ---
-gre_id: 2a778cc475
+gre_id: "2a778cc475"
 aliases: [/id/2a778cc475]
 type: garden
 title: VIII.2.1. House of Championnet I

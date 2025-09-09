@@ -1,5 +1,5 @@
 ---
-gre_id: 171b33f4c4
+gre_id: "171b33f4c4"
 aliases: [/id/171b33f4c4]
 type: garden
 title: House of the Arsenal (Maison de l'Arsenal)

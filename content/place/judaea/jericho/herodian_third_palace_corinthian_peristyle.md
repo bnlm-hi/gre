@@ -1,5 +1,5 @@
 ---
-gre_id: d23ef39a54
+gre_id: "d23ef39a54"
 aliases: [/id/d23ef39a54]
 type: garden
 title: Jericho Herodian Third Palace Corinthian Peristyle

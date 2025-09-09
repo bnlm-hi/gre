@@ -1,5 +1,5 @@
 ---
-gre_id: 3ae7dd1c92
+gre_id: "3ae7dd1c92"
 aliases: [/id/3ae7dd1c92]
 type: place
 title: Briord

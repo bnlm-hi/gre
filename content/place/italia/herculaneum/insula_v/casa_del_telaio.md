@@ -1,5 +1,5 @@
 ---
-gre_id: 24c99cc9d4
+gre_id: "24c99cc9d4"
 aliases: [/id/24c99cc9d4]
 type: garden
 title: Casa del Telaio

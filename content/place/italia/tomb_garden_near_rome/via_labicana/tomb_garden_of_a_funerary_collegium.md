@@ -1,5 +1,5 @@
 ---
-gre_id: 189991e576
+gre_id: "189991e576"
 aliases: [/id/189991e576]
 type: garden
 title: Tomb Garden of a Funerary Collegium

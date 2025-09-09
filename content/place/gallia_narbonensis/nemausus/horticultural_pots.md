@@ -1,5 +1,5 @@
 ---
-gre_id: 1c6fcfd3a1
+gre_id: "1c6fcfd3a1"
 aliases: [/id/1c6fcfd3a1]
 type: garden
 title: Horticultural pots

@@ -1,5 +1,5 @@
 ---
-gre_id: 715633921e
+gre_id: "715633921e"
 aliases: [/id/715633921e]
 type: garden
 title: The anonymous sanctuary, Dar Lachheb

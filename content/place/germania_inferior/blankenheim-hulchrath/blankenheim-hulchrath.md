@@ -1,5 +1,5 @@
 ---
-gre_id: 26e9d8a183
+gre_id: "26e9d8a183"
 aliases: [/id/26e9d8a183]
 type: garden
 title: Rustic villa at Blankenheim-Hülchrath

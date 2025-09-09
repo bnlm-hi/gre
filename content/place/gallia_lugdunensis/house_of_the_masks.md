@@ -1,5 +1,5 @@
 ---
-gre_id: 430f3773a2
+gre_id: "430f3773a2"
 aliases: [/id/430f3773a2]
 type: garden
 title: House of the Masks (Maison aux Masques)

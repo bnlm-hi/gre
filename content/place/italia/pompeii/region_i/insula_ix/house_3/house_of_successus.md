@@ -1,5 +1,5 @@
 ---
-gre_id: fe162e4efd
+gre_id: "fe162e4efd"
 aliases: [/id/fe162e4efd]
 type: garden
 title: House of Successus (I.ix.3)

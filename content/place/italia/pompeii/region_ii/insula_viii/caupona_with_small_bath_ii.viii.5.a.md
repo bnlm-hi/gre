@@ -1,5 +1,5 @@
 ---
-gre_id: 44c33a5f5f
+gre_id: "44c33a5f5f"
 aliases: [/id/44c33a5f5f]
 type: garden
 title: Caupona with Small Bath

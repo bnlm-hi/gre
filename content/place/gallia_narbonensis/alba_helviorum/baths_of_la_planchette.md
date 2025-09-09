@@ -1,5 +1,5 @@
 ---
-gre_id: b382a81e40
+gre_id: "b382a81e40"
 aliases: [/id/b382a81e40]
 type: garden
 title: Baths of La Planchette

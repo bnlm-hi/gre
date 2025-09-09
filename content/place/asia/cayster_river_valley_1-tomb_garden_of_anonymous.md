@@ -1,5 +1,5 @@
 ---
-gre_id: 92a0c73535
+gre_id: "92a0c73535"
 aliases: [/id/92a0c73535]
 type: garden
 title: Tomb Garden of Anonymous 1

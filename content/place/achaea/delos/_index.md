@@ -1,5 +1,5 @@
 ---
-gre_id: fbded729df
+gre_id: "fbded729df"
 aliases: [/id/fbded729df]
 type: place
 title: Delos

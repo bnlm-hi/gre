@@ -1,5 +1,5 @@
 ---
-gre_id: a0d7d220fb
+gre_id: "a0d7d220fb"
 aliases: [/id/a0d7d220fb]
 type: garden
 title: The Stadium-garden (Fig. 1, n. 4)

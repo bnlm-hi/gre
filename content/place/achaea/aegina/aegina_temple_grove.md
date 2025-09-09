@@ -1,5 +1,5 @@
 ---
-gre_id: ac3df48e02
+gre_id: "ac3df48e02"
 aliases: [/id/ac3df48e02]
 type: garden
 title: Grove at the shrine of Aiakos

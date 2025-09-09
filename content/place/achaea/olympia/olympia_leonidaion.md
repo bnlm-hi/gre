@@ -1,5 +1,5 @@
 ---
-gre_id: 465f868852
+gre_id: "465f868852"
 aliases: [/id/465f868852]
 type: garden
 title: Leonidaion

@@ -1,5 +1,5 @@
 ---
-gre_id: 1a7cf84cd7
+gre_id: "1a7cf84cd7"
 aliases: [/id/1a7cf84cd7]
 type: garden
 title: Jericho Herodian First Palace

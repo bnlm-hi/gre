@@ -1,5 +1,5 @@
 ---
-gre_id: 3a24879b01
+gre_id: "3a24879b01"
 aliases: [/id/3a24879b01]
 type: garden
 title: Casa dell'Ara Laterizia

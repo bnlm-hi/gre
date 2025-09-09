@@ -1,5 +1,5 @@
 ---
-gre_id: b0bff5a21c
+gre_id: "b0bff5a21c"
 aliases: [/id/b0bff5a21c]
 type: garden
 title: House of the Mosaic of Hedykoitos

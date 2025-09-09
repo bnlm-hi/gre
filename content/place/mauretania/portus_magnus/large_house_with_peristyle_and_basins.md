@@ -1,5 +1,5 @@
 ---
-gre_id: ef18d0874b
+gre_id: "ef18d0874b"
 aliases: [/id/ef18d0874b]
 type: garden
 title: Large House with peristyle and basins

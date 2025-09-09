@@ -1,5 +1,5 @@
 ---
-gre_id: 5c89851eac
+gre_id: "5c89851eac"
 aliases: [/id/5c89851eac]
 type: garden
 title: House of the Figured Basin (Maison du bassin figuré)

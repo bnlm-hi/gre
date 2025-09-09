@@ -1,5 +1,5 @@
 ---
-gre_id: e041f5959d
+gre_id: "e041f5959d"
 aliases: [/id/e041f5959d]
 type: garden
 title: Rural Villa in Wiesbaden-Biebrich

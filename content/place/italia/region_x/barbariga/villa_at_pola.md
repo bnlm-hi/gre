@@ -1,5 +1,5 @@
 ---
-gre_id: db76049640
+gre_id: "db76049640"
 aliases: [/id/db76049640]
 type: garden
 title: Villa at Pola

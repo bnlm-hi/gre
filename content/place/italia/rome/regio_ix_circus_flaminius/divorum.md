@@ -1,5 +1,5 @@
 ---
-gre_id: 864b23466d
+gre_id: "864b23466d"
 aliases: [/id/864b23466d]
 type: garden
 title: Divorum

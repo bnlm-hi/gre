@@ -1,5 +1,5 @@
 ---
-gre_id: d641fc022c
+gre_id: "d641fc022c"
 aliases: [/id/d641fc022c]
 type: garden
 title: Villa del Cortijo de los Vila

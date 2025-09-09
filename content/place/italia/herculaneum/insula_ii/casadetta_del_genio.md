@@ -1,5 +1,5 @@
 ---
-gre_id: a357172ce7
+gre_id: "a357172ce7"
 aliases: [/id/a357172ce7]
 type: garden
 title: Casadetta del Genio

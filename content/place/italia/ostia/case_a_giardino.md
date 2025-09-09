@@ -1,5 +1,5 @@
 ---
-gre_id: 6425fe15f5
+gre_id: "6425fe15f5"
 aliases: [/id/6425fe15f5]
 type: garden
 title: Garden Houses (Case a Giardino)

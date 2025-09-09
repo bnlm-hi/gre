@@ -1,5 +1,5 @@
 ---
-gre_id: f218fa055f
+gre_id: "f218fa055f"
 aliases: [/id/f218fa055f]
 type: garden
 title: Temple Grove of Apollo

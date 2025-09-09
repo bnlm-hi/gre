@@ -1,5 +1,5 @@
 ---
-gre_id: 5d34e59833
+gre_id: "5d34e59833"
 aliases: [/id/5d34e59833]
 type: garden
 title: Jericho Herodian Second Palace

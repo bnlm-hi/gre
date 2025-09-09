@@ -1,5 +1,5 @@
 ---
-gre_id: 2098eccb4d
+gre_id: "2098eccb4d"
 aliases: [/id/2098eccb4d]
 type: garden
 title: Insula II, lot 4

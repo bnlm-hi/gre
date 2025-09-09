@@ -1,5 +1,5 @@
 ---
-gre_id: 3e7f969b71
+gre_id: "3e7f969b71"
 aliases: [/id/3e7f969b71]
 type: place
 title: Asia

@@ -1,5 +1,5 @@
 ---
-gre_id: 3b6b0e6ae7
+gre_id: "3b6b0e6ae7"
 aliases: [/id/3b6b0e6ae7]
 type: garden
 title: Villa Borg

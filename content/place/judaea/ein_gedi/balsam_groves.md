@@ -1,5 +1,5 @@
 ---
-gre_id: 828f403e58
+gre_id: "828f403e58"
 aliases: [/id/828f403e58]
 type: garden
 title: Ein Gedi Balsam Groves

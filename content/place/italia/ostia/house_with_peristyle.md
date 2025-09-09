@@ -1,5 +1,5 @@
 ---
-gre_id: 93e760d9c3
+gre_id: "93e760d9c3"
 aliases: [/id/93e760d9c3]
 type: garden
 title: House with Peristyle

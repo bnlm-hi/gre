@@ -1,5 +1,5 @@
 ---
-gre_id: 8c6ccd67f1
+gre_id: "8c6ccd67f1"
 aliases: [/id/8c6ccd67f1]
 type: garden
 title: House of the Columns

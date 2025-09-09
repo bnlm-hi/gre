@@ -1,5 +1,5 @@
 ---
-gre_id: 0708bf7b00
+gre_id: "0708bf7b00"
 aliases: [/id/0708bf7b00]
 type: garden
 title: La Olmeda

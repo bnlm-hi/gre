@@ -1,5 +1,5 @@
 ---
-gre_id: 7e70a6c01e
+gre_id: "7e70a6c01e"
 aliases: [/id/7e70a6c01e]
 type: garden
 title: Villa de Château-Pipet

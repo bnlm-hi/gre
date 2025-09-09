@@ -1,5 +1,5 @@
 ---
-gre_id: bbc6ec188a
+gre_id: "bbc6ec188a"
 aliases: [/id/bbc6ec188a]
 type: place
 title: Munigua

@@ -1,5 +1,5 @@
 ---
-gre_id: 530a80ad1d
+gre_id: "530a80ad1d"
 aliases: [/id/530a80ad1d]
 type: place
 title: Arelate

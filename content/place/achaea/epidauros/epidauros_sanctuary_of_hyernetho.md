@@ -1,5 +1,5 @@
 ---
-gre_id: 4ac5538904
+gre_id: "4ac5538904"
 aliases: [/id/4ac5538904]
 type: garden
 title: Sanctuary of Hyernetho

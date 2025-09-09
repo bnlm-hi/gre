@@ -1,5 +1,5 @@
 ---
-gre_id: cf9b8b7e86
+gre_id: "cf9b8b7e86"
 aliases: [/id/cf9b8b7e86]
 type: garden
 title: House of Dionysos

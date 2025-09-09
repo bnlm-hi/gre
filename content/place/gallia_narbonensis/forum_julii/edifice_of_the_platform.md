@@ -1,5 +1,5 @@
 ---
-gre_id: 33a2a65f89
+gre_id: "33a2a65f89"
 aliases: [/id/33a2a65f89]
 type: garden
 title: Edifice of the Platform

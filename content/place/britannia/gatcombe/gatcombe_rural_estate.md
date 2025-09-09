@@ -1,5 +1,5 @@
 ---
-gre_id: 9c24534c32
+gre_id: "9c24534c32"
 aliases: [/id/9c24534c32]
 type: garden
 title: Rural Estate in Gatcombe

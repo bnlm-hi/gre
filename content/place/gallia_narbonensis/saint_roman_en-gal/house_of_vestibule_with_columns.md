@@ -1,5 +1,5 @@
 ---
-gre_id: 2b2200091a
+gre_id: "2b2200091a"
 aliases: [/id/2b2200091a]
 type: garden
 title: House of Vestibule with Columns

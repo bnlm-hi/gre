@@ -1,5 +1,5 @@
 ---
-gre_id: 8a45b729f8
+gre_id: "8a45b729f8"
 aliases: [/id/8a45b729f8]
 type: garden
 title: The garden on the back

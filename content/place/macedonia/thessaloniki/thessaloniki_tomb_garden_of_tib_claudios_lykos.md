@@ -1,5 +1,5 @@
 ---
-gre_id: 61573de869
+gre_id: "61573de869"
 aliases: [/id/61573de869]
 type: garden
 title: Tomb Garden of Ti. Claudios Lykos

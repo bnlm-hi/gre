@@ -1,5 +1,5 @@
 ---
-gre_id: d0a13c750c
+gre_id: "d0a13c750c"
 aliases: [/id/d0a13c750c]
 type: garden
 title: Casa del Tramezzo di Legno

@@ -1,5 +1,5 @@
 ---
-gre_id: d3b975f8d5
+gre_id: "d3b975f8d5"
 aliases: [/id/d3b975f8d5]
 type: garden
 title: Rural villa at Voerendaal

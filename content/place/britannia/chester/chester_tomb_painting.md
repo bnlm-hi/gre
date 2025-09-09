@@ -1,5 +1,5 @@
 ---
-gre_id: fd2163e5d2
+gre_id: "fd2163e5d2"
 aliases: [/id/fd2163e5d2]
 type: garden
 title: Tomb Painting in Chester

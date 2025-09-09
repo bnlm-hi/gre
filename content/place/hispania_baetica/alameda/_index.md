@@ -1,5 +1,5 @@
 ---
-gre_id: fb78b1ab86
+gre_id: "fb78b1ab86"
 aliases: [/id/fb78b1ab86]
 type: place
 title: Alameda

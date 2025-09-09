@@ -1,5 +1,5 @@
 ---
-gre_id: be19d05e02
+gre_id: "be19d05e02"
 aliases: [/id/be19d05e02]
 type: garden
 title: Le Pinard, House B

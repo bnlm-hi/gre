@@ -1,5 +1,5 @@
 ---
-gre_id: cd4ec5400c
+gre_id: "cd4ec5400c"
 aliases: [/id/cd4ec5400c]
 type: garden
 title: Casa del Bicentenario

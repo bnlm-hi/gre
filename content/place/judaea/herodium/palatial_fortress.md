@@ -1,5 +1,5 @@
 ---
-gre_id: 08a99fc485
+gre_id: "08a99fc485"
 aliases: [/id/08a99fc485]
 type: garden
 title: Herodium Palace Fortress

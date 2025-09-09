@@ -1,5 +1,5 @@
 ---
-gre_id: 3874a10bf6
+gre_id: "3874a10bf6"
 aliases: [/id/3874a10bf6]
 type: garden
 title: Casa della Gemma (Insula or. I.1)

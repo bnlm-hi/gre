@@ -1,5 +1,5 @@
 ---
-gre_id: a268867d07
+gre_id: "a268867d07"
 aliases: [/id/a268867d07]
 type: garden
 title: Rural Villa in Bancroft

@@ -1,5 +1,5 @@
 ---
-gre_id: 3643484a1f
+gre_id: "3643484a1f"
 aliases: [/id/3643484a1f]
 type: garden
 title: House of the Mithraeum

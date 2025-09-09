@@ -1,5 +1,5 @@
 ---
-gre_id: af830a592c
+gre_id: "af830a592c"
 aliases: [/id/af830a592c]
 type: garden
 title: Guest House 1

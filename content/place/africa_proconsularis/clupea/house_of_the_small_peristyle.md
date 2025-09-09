@@ -1,5 +1,5 @@
 ---
-gre_id: 515b239960
+gre_id: "515b239960"
 aliases: [/id/515b239960]
 type: garden
 title: House of the small Peristyle

@@ -1,5 +1,5 @@
 ---
-gre_id: bce2704a1e
+gre_id: "bce2704a1e"
 aliases: [/id/bce2704a1e]
 type: garden
 title: The Houses of Insula 7 in Colonia Ulpia Traiana

@@ -1,5 +1,5 @@
 ---
-gre_id: 6802d02b5a
+gre_id: "6802d02b5a"
 aliases: [/id/6802d02b5a]
 type: garden
 title: Garden between the nymphaeum on the E side of the Academy and the Praetorium (Fig. 1, n. 24)

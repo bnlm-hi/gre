@@ -1,5 +1,5 @@
 ---
-gre_id: 42b3b5cb9c
+gre_id: "42b3b5cb9c"
 aliases: [/id/42b3b5cb9c]
 type: garden
 title: Domus de La Marseillaise

@@ -1,5 +1,5 @@
 ---
-gre_id: b85436cd7e
+gre_id: "b85436cd7e"
 aliases: [/id/b85436cd7e]
 type: garden
 title: Tomb Garden and Pool of Cingius Iustinus

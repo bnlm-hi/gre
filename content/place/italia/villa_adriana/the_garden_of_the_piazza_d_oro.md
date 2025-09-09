@@ -1,5 +1,5 @@
 ---
-gre_id: a72a260f9e
+gre_id: "a72a260f9e"
 aliases: [/id/a72a260f9e]
 type: garden
 title: The Garden of the Piazza d'Oro (Fig. 1, n. 20)

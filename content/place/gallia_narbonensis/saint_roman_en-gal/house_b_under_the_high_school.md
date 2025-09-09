@@ -1,5 +1,5 @@
 ---
-gre_id: a52615cbde
+gre_id: "a52615cbde"
 aliases: [/id/a52615cbde]
 type: garden
 title: La Plaine, House A under the High School

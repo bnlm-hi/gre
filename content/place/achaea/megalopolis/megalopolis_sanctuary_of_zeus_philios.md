@@ -1,5 +1,5 @@
 ---
-gre_id: b358c1f3d6
+gre_id: "b358c1f3d6"
 aliases: [/id/b358c1f3d6]
 type: garden
 title: Sanctuary of Zeus Philios

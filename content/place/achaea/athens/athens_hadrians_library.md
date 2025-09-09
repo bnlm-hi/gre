@@ -1,5 +1,5 @@
 ---
-gre_id: 1aef208ebc
+gre_id: "1aef208ebc"
 aliases: [/id/1aef208ebc]
 type: garden
 title: Library of Hadrian

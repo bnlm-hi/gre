@@ -1,5 +1,5 @@
 ---
-gre_id: 89b7a7e741
+gre_id: "89b7a7e741"
 aliases: [/id/89b7a7e741]
 type: garden
 title: Schola of the Collegium Fabrum

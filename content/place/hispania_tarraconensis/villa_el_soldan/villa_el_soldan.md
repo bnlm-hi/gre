@@ -1,5 +1,5 @@
 ---
-gre_id: 15b1cb6052
+gre_id: "15b1cb6052"
 aliases: [/id/15b1cb6052]
 type: garden
 title: Villa El Soldán  (The Sultan)

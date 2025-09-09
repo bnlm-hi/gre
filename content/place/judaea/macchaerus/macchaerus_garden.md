@@ -1,5 +1,5 @@
 ---
-gre_id: 3362b96966
+gre_id: "3362b96966"
 aliases: [/id/3362b96966]
 type: garden
 title: Machaerus Southern Courtyard

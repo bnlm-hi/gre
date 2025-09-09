@@ -1,5 +1,5 @@
 ---
-gre_id: b5c9a7a301
+gre_id: "b5c9a7a301"
 aliases: [/id/b5c9a7a301]
 type: garden
 title: Suburban Gardens in Camulodunum

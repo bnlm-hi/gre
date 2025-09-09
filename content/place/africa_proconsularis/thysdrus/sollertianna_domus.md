@@ -1,5 +1,5 @@
 ---
-gre_id: b1672db932
+gre_id: "b1672db932"
 aliases: [/id/b1672db932]
 type: garden
 title: Sollertianna Domus

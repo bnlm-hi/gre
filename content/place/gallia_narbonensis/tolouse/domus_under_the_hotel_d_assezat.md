@@ -1,5 +1,5 @@
 ---
-gre_id: 0d54548d75
+gre_id: "0d54548d75"
 aliases: [/id/0d54548d75]
 type: garden
 title: Domus under the Hôtel d'Assézat

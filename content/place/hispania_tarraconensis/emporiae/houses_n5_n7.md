@@ -1,5 +1,5 @@
 ---
-gre_id: c508ff1711
+gre_id: "c508ff1711"
 aliases: [/id/c508ff1711]
 type: garden
 title: Houses N5 and N7

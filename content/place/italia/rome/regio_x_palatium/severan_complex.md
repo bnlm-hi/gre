@@ -1,5 +1,5 @@
 ---
-gre_id: b267892f1e
+gre_id: "b267892f1e"
 aliases: [/id/b267892f1e]
 type: garden
 title: The Severan Complex

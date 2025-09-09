@@ -1,5 +1,5 @@
 ---
-gre_id: b876d5102b
+gre_id: "b876d5102b"
 aliases: [/id/b876d5102b]
 type: garden
 title: I.6.4 House of the Lararium; Casa del Larario; Sabello Iliaco

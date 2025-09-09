@@ -1,5 +1,5 @@
 ---
-gre_id: a401c7d278
+gre_id: "a401c7d278"
 aliases: [/id/a401c7d278]
 type: garden
 title: Babatha's Orchard

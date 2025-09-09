@@ -1,5 +1,5 @@
 ---
-gre_id: 28e7c5cd94
+gre_id: "28e7c5cd94"
 aliases: [/id/28e7c5cd94]
 type: garden
 title: House with the Arbor, Puymin Quarter, Formerly called the Praetorium

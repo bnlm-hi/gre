@@ -1,5 +1,5 @@
 ---
-gre_id: fd8693dc71
+gre_id: "fd8693dc71"
 aliases: [/id/fd8693dc71]
 type: garden
 title: Sanctuary of Mysian Demeter

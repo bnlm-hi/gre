@@ -1,5 +1,5 @@
 ---
-gre_id: 069554cb8e
+gre_id: "069554cb8e"
 aliases: [/id/069554cb8e]
 type: garden
 title: Villa de Saint-Symphorien

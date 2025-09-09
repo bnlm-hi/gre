@@ -1,5 +1,5 @@
 ---
-gre_id: b43a41fef1
+gre_id: "b43a41fef1"
 aliases: [/id/b43a41fef1]
 type: garden
 title: Villa de Châtillon-sur-Seiche

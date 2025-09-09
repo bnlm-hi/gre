@@ -1,5 +1,5 @@
 ---
-gre_id: 48566b8135
+gre_id: "48566b8135"
 aliases: [/id/48566b8135]
 type: garden
 title: House of the L-shaped Cistern

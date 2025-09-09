@@ -1,5 +1,5 @@
 ---
-gre_id: e0571e8970
+gre_id: "e0571e8970"
 aliases: [/id/e0571e8970]
 type: garden
 title: Villa el Ruedo

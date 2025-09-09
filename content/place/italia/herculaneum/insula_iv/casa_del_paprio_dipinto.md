@@ -1,5 +1,5 @@
 ---
-gre_id: 39e0336d94
+gre_id: "39e0336d94"
 aliases: [/id/39e0336d94]
 type: garden
 title: Casa del Paprio Dipinto

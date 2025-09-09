@@ -1,5 +1,5 @@
 ---
-gre_id: f90a828059
+gre_id: "f90a828059"
 aliases: [/id/f90a828059]
 type: garden
 title: Rural Villa

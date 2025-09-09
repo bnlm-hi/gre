@@ -1,5 +1,5 @@
 ---
-gre_id: b50312a60b
+gre_id: "b50312a60b"
 aliases: [/id/b50312a60b]
 type: garden
 title: Vigna Barberini

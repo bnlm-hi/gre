@@ -1,5 +1,5 @@
 ---
-gre_id: abfb7480d1
+gre_id: "abfb7480d1"
 aliases: [/id/abfb7480d1]
 type: garden
 title: I.2.6

@@ -1,5 +1,5 @@
 ---
-gre_id: f8fd3f8803
+gre_id: "f8fd3f8803"
 aliases: [/id/f8fd3f8803]
 type: garden
 title: Casa del Rivievo di Telefo (Insula or. I.2-3)

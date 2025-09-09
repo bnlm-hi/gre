@@ -1,5 +1,5 @@
 ---
-gre_id: 688915e49a
+gre_id: "688915e49a"
 aliases: [/id/688915e49a]
 type: garden
 title: Casa con Giardino

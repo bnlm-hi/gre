@@ -1,5 +1,5 @@
 ---
-gre_id: aa75859597
+gre_id: "aa75859597"
 aliases: [/id/aa75859597]
 type: garden
 title: Temple of Diana

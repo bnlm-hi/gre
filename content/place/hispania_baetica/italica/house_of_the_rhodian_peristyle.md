@@ -1,5 +1,5 @@
 ---
-gre_id: c73d6e2c2f
+gre_id: "c73d6e2c2f"
 aliases: [/id/c73d6e2c2f]
 type: garden
 title: House of the Rhodian Peristyle

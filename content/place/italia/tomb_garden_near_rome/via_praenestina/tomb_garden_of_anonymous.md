@@ -1,5 +1,5 @@
 ---
-gre_id: bb39f8e907
+gre_id: "bb39f8e907"
 aliases: [/id/bb39f8e907]
 type: garden
 title: Tomb Garden of Anonymous

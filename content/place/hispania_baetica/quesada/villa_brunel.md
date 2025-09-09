@@ -1,5 +1,5 @@
 ---
-gre_id: 05257b5d8b
+gre_id: "05257b5d8b"
 aliases: [/id/05257b5d8b]
 type: garden
 title: Villa Bruñel

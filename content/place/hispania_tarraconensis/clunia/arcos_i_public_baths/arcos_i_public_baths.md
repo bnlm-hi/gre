@@ -1,5 +1,5 @@
 ---
-gre_id: 71ab14ebd1
+gre_id: "71ab14ebd1"
 aliases: [/id/71ab14ebd1]
 type: garden
 title: Arcos I Public Baths

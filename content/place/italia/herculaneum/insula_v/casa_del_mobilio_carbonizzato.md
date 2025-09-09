@@ -1,5 +1,5 @@
 ---
-gre_id: 902575a3a3
+gre_id: "902575a3a3"
 aliases: [/id/902575a3a3]
 type: garden
 title: Casa del Mobilio Carbonizzato

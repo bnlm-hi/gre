@@ -1,5 +1,5 @@
 ---
-gre_id: 4461d53603
+gre_id: "4461d53603"
 aliases: [/id/4461d53603]
 type: garden
 title: Tomb Garden of Papias son of Adrastos

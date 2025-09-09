@@ -1,5 +1,5 @@
 ---
-gre_id: 47d674ad67
+gre_id: "47d674ad67"
 aliases: [/id/47d674ad67]
 type: garden
 title: VIII.7.11.

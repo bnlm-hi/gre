@@ -1,5 +1,5 @@
 ---
-gre_id: fbde5b398f
+gre_id: "fbde5b398f"
 aliases: [/id/fbde5b398f]
 type: garden
 title: House of Venus (Maison de Venus)

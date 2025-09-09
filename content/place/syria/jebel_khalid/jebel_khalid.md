@@ -1,5 +1,5 @@
 ---
-gre_id: 60e65ce0fc
+gre_id: "60e65ce0fc"
 aliases: [/id/60e65ce0fc]
 type: garden
 title: Acropolis Palace at Jebel Khalid

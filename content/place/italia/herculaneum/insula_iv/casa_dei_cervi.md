@@ -1,5 +1,5 @@
 ---
-gre_id: 5a33a1fddf
+gre_id: "5a33a1fddf"
 aliases: [/id/5a33a1fddf]
 type: garden
 title: Casa dei Cervi

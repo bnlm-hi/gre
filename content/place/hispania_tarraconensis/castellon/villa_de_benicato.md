@@ -1,5 +1,5 @@
 ---
-gre_id: aa2406afa4
+gre_id: "aa2406afa4"
 aliases: [/id/aa2406afa4]
 type: garden
 title: Villa de Benicató

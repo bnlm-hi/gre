@@ -1,5 +1,5 @@
 ---
-gre_id: e5cccd48c0
+gre_id: "e5cccd48c0"
 aliases: [/id/e5cccd48c0]
 type: garden
 title: Sanctuary of Poseidon

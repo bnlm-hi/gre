@@ -1,5 +1,5 @@
 ---
-gre_id: 2240426c29
+gre_id: "2240426c29"
 aliases: [/id/2240426c29]
 type: garden
 title: Roman Palace in Fishbourne

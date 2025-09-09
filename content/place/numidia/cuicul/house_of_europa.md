@@ -1,5 +1,5 @@
 ---
-gre_id: 989124b02a
+gre_id: "989124b02a"
 aliases: [/id/989124b02a]
 type: garden
 title: House of Europa, Central District (Maison d'Europe, Quartier Central)

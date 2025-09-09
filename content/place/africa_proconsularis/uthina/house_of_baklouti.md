@@ -1,5 +1,5 @@
 ---
-gre_id: 49d22e6ecc
+gre_id: "49d22e6ecc"
 aliases: [/id/49d22e6ecc]
 type: garden
 title: House of Baklouti (Maison de Baklouti)

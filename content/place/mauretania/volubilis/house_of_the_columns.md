@@ -1,5 +1,5 @@
 ---
-gre_id: b6d3a3a094
+gre_id: "b6d3a3a094"
 aliases: [/id/b6d3a3a094]
 type: garden
 title: House of the Columns (La maison aux colonnes)

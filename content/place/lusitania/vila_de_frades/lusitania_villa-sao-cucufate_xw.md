@@ -1,5 +1,5 @@
 ---
-gre_id: 45ba2b3b74
+gre_id: "45ba2b3b74"
 aliases: [/id/45ba2b3b74]
 type: garden
 title: Villa Sao Cucufate

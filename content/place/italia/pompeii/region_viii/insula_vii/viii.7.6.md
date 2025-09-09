@@ -1,5 +1,5 @@
 ---
-gre_id: 088601b402
+gre_id: "088601b402"
 aliases: [/id/088601b402]
 type: garden
 title: VIII.7.6.

@@ -1,5 +1,5 @@
 ---
-gre_id: 53500e1feb
+gre_id: "53500e1feb"
 aliases: [/id/53500e1feb]
 type: garden
 title: I.7.10-12/19 House of the Ephebe; Casa Dell'Efebo; House of P. Cornelius Teges (or Tages)

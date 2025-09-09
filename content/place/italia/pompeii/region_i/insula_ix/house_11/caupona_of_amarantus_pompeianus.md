@@ -1,5 +1,5 @@
 ---
-gre_id: 2173092aab
+gre_id: "2173092aab"
 aliases: [/id/2173092aab]
 type: garden
 title: Caupona of Amarantus Pompeianus (I.ix.11)

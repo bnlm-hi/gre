@@ -1,5 +1,5 @@
 ---
-gre_id: 20d40b673f
+gre_id: "20d40b673f"
 aliases: [/id/20d40b673f]
 type: garden
 title: Villa el Santiscal

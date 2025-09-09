@@ -1,5 +1,5 @@
 ---
-gre_id: 47607cea3d
+gre_id: "47607cea3d"
 aliases: [/id/47607cea3d]
 type: garden
 title: House of the Large Peristyle

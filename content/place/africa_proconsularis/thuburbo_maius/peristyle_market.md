@@ -1,5 +1,5 @@
 ---
-gre_id: 88a590cc40
+gre_id: "88a590cc40"
 aliases: [/id/88a590cc40]
 type: garden
 title: Peristyle Market (Marché)

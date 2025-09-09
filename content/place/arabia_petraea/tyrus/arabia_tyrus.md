@@ -1,5 +1,5 @@
 ---
-gre_id: 65237359b2
+gre_id: "65237359b2"
 aliases: [/id/65237359b2]
 type: garden
 title: Palace of Hyrcanus the Tobiad

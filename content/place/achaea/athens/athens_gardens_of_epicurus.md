@@ -1,5 +1,5 @@
 ---
-gre_id: 603e67549e
+gre_id: "603e67549e"
 aliases: [/id/603e67549e]
 type: garden
 title: Garden of Epicurus

@@ -1,5 +1,5 @@
 ---
-gre_id: 0007af5d4a
+gre_id: "0007af5d4a"
 aliases: [/id/0007af5d4a]
 type: garden
 title: House of Dionyius

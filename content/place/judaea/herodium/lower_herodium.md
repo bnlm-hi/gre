@@ -1,5 +1,5 @@
 ---
-gre_id: 0af81a130f
+gre_id: "0af81a130f"
 aliases: [/id/0af81a130f]
 type: garden
 title: Herodium Lower Garden Complex

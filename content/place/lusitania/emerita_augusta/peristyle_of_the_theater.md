@@ -1,5 +1,5 @@
 ---
-gre_id: b11957d451
+gre_id: "b11957d451"
 aliases: [/id/b11957d451]
 type: garden
 title: Peristyle of the Theater

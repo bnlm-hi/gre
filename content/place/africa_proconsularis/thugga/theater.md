@@ -1,5 +1,5 @@
 ---
-gre_id: 43d2397bce
+gre_id: "43d2397bce"
 aliases: [/id/43d2397bce]
 type: garden
 title: Theater (Theâtre)

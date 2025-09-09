@@ -1,5 +1,5 @@
 ---
-gre_id: 0f8c1a7d6c
+gre_id: "0f8c1a7d6c"
 aliases: [/id/0f8c1a7d6c]
 type: garden
 title: Niederzier Hambach 59

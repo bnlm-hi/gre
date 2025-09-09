@@ -1,5 +1,5 @@
 ---
-gre_id: 5c3c939e6d
+gre_id: "5c3c939e6d"
 aliases: [/id/5c3c939e6d]
 type: garden
 title: House of the Two Hunts

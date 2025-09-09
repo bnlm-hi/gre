@@ -1,5 +1,5 @@
 ---
-gre_id: ed9aa10662
+gre_id: "ed9aa10662"
 aliases: [/id/ed9aa10662]
 type: garden
 title: Tomb Garden of C. Hostius Pamphilus

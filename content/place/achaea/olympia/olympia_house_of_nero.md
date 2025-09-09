@@ -1,5 +1,5 @@
 ---
-gre_id: c6200cef9d
+gre_id: "c6200cef9d"
 aliases: [/id/c6200cef9d]
 type: garden
 title: House of Nero

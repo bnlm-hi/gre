@@ -1,5 +1,5 @@
 ---
-gre_id: fed58129af
+gre_id: "fed58129af"
 aliases: [/id/fed58129af]
 type: garden
 title: Casa del bel Cortile

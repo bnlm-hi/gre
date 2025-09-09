@@ -1,5 +1,5 @@
 ---
-gre_id: ba47943440
+gre_id: "ba47943440"
 aliases: [/id/ba47943440]
 type: garden
 title: House of the Thunderbolt (Domus Fulminata)

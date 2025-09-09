@@ -1,5 +1,5 @@
 ---
-gre_id: e1ec386f49
+gre_id: "e1ec386f49"
 aliases: [/id/e1ec386f49]
 type: garden
 title: Urban House on Lungenstrasse

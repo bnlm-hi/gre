@@ -1,5 +1,5 @@
 ---
-gre_id: 7e77e960b0
+gre_id: "7e77e960b0"
 aliases: [/id/7e77e960b0]
 type: garden
 title: House of the Cistern

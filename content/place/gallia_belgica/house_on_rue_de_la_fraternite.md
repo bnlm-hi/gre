@@ -1,5 +1,5 @@
 ---
-gre_id: 5df14b027f
+gre_id: "5df14b027f"
 aliases: [/id/5df14b027f]
 type: garden
 title: House on rue de la Fraternité

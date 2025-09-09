@@ -1,5 +1,5 @@
 ---
-gre_id: feb6a7feaa
+gre_id: "feb6a7feaa"
 aliases: [/id/feb6a7feaa]
 type: garden
 title: Rural Villa at Neerhaaren-Rekem

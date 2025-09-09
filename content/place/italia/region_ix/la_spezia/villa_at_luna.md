@@ -1,5 +1,5 @@
 ---
-gre_id: 6983390b35
+gre_id: "6983390b35"
 aliases: [/id/6983390b35]
 type: garden
 title: Villa at Luna

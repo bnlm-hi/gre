@@ -1,5 +1,5 @@
 ---
-gre_id: 4e09dabd43
+gre_id: "4e09dabd43"
 aliases: [/id/4e09dabd43]
 type: garden
 title: Villa at site 10

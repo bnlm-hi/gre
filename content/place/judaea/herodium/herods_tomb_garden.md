@@ -1,5 +1,5 @@
 ---
-gre_id: ce27b94b83
+gre_id: "ce27b94b83"
 aliases: [/id/ce27b94b83]
 type: garden
 title: Herodium Herod's Tomb Garden

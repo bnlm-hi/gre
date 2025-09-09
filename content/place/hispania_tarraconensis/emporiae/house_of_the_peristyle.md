@@ -1,5 +1,5 @@
 ---
-gre_id: af4bdb0410
+gre_id: "af4bdb0410"
 aliases: [/id/af4bdb0410]
 type: garden
 title: House of the Peristyle

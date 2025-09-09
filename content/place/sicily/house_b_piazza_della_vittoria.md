@@ -1,5 +1,5 @@
 ---
-gre_id: b4666256a7
+gre_id: "b4666256a7"
 aliases: [/id/b4666256a7]
 type: garden
 title: House B, Piazza della Vittoria

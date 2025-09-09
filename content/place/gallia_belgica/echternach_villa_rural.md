@@ -1,5 +1,5 @@
 ---
-gre_id: 1ab1ef96b6
+gre_id: "1ab1ef96b6"
 aliases: [/id/1ab1ef96b6]
 type: garden
 title: Rural Villa

@@ -1,5 +1,5 @@
 ---
-gre_id: f6a82bdba9
+gre_id: "f6a82bdba9"
 aliases: [/id/f6a82bdba9]
 type: garden
 title: Neoplatonic School Near the Areopagus

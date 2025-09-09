@@ -1,5 +1,5 @@
 ---
-gre_id: 59d4dedc89
+gre_id: "59d4dedc89"
 aliases: [/id/59d4dedc89]
 type: garden
 title: Caupona-Hospitium dei "Pulcinella" (I.viii.10)

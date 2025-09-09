@@ -1,5 +1,5 @@
 ---
-gre_id: 84fc60f497
+gre_id: "84fc60f497"
 aliases: [/id/84fc60f497]
 type: garden
 title: Ramat Hanadiv

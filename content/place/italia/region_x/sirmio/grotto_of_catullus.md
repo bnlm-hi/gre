@@ -1,5 +1,5 @@
 ---
-gre_id: a527d97d80
+gre_id: "a527d97d80"
 aliases: [/id/a527d97d80]
 type: garden
 title: House of Grotto of Catullus

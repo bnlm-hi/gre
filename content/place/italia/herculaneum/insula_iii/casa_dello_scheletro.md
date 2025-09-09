@@ -1,5 +1,5 @@
 ---
-gre_id: f1ec9d3af7
+gre_id: "f1ec9d3af7"
 aliases: [/id/f1ec9d3af7]
 type: garden
 title: Casa dello Scheletro

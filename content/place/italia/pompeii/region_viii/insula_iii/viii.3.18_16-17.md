@@ -1,5 +1,5 @@
 ---
-gre_id: 661c3890ed
+gre_id: "661c3890ed"
 aliases: [/id/661c3890ed]
 type: garden
 title: VIII.3.18/16-17. House of Diana

@@ -1,5 +1,5 @@
 ---
-gre_id: 3ec02332d6
+gre_id: "3ec02332d6"
 aliases: [/id/3ec02332d6]
 type: garden
 title: House of the Peacock (Maison du Paon)

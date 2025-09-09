@@ -1,5 +1,5 @@
 ---
-gre_id: 2b95d34b85
+gre_id: "2b95d34b85"
 aliases: [/id/2b95d34b85]
 type: garden
 title: Antinous' tomb (Fig. 1, n. 25)

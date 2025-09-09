@@ -1,5 +1,5 @@
 ---
-gre_id: 65ffcfe9e6
+gre_id: "65ffcfe9e6"
 aliases: [/id/65ffcfe9e6]
 type: garden
 title: Villa Dehesa de Soria

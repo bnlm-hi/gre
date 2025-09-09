@@ -1,5 +1,5 @@
 ---
-gre_id: 34974ad663
+gre_id: "34974ad663"
 aliases: [/id/34974ad663]
 type: garden
 title: Tomb Garden of L. Ogius Patroclus

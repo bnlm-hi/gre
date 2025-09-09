@@ -1,5 +1,5 @@
 ---
-gre_id: 985a3fb134
+gre_id: "985a3fb134"
 aliases: [/id/985a3fb134]
 type: place
 title: Almedinilla

@@ -1,5 +1,5 @@
 ---
-gre_id: 37a576450d
+gre_id: "37a576450d"
 aliases: [/id/37a576450d]
 type: garden
 title: Rural Villa in Bad Kreuznach

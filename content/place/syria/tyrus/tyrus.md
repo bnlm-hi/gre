@@ -1,5 +1,5 @@
 ---
-gre_id: 6396878ba3
+gre_id: "6396878ba3"
 aliases: [/id/6396878ba3]
 type: garden
 title: Tomb garden at Tyre

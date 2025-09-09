@@ -1,5 +1,5 @@
 ---
-gre_id: 3d961bf684
+gre_id: "3d961bf684"
 aliases: [/id/3d961bf684]
 type: garden
 title: Casa del Gran Portale

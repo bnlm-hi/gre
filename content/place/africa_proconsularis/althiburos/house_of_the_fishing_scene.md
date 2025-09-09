@@ -1,5 +1,5 @@
 ---
-gre_id: ae5b25e9bf
+gre_id: "ae5b25e9bf"
 aliases: [/id/ae5b25e9bf]
 type: garden
 title: House of the Fishing Scene

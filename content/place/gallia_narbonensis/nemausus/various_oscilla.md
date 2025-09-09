@@ -1,5 +1,5 @@
 ---
-gre_id: 38533683a4
+gre_id: "38533683a4"
 aliases: [/id/38533683a4]
 type: garden
 title: Various oscilla

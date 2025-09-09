@@ -1,5 +1,5 @@
 ---
-gre_id: 011acd8815
+gre_id: "011acd8815"
 aliases: [/id/011acd8815]
 type: garden
 title: House of Industrius (Maison d'Industrius)

@@ -1,5 +1,5 @@
 ---
-gre_id: 9afc81b032
+gre_id: "9afc81b032"
 aliases: [/id/9afc81b032]
 type: garden
 title: House of the Bust of Marcus Aurelius

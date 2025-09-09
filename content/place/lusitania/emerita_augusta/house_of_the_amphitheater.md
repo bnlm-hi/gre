@@ -1,5 +1,5 @@
 ---
-gre_id: d8f4bc0a38
+gre_id: "d8f4bc0a38"
 aliases: [/id/d8f4bc0a38]
 type: garden
 title: House of the Amphitheater

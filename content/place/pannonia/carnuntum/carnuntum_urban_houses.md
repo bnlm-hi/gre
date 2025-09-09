@@ -1,5 +1,5 @@
 ---
-gre_id: ed6a8dfedd
+gre_id: "ed6a8dfedd"
 aliases: [/id/ed6a8dfedd]
 type: garden
 title: Urban Houses in Carnuntum

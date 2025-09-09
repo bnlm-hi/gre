@@ -1,5 +1,5 @@
 ---
-gre_id: 00374bc287
+gre_id: "00374bc287"
 aliases: [/id/00374bc287]
 type: garden
 title: House of the Protomes (Maison des Protomés)

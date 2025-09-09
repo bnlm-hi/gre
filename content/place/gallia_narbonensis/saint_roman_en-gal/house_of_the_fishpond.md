@@ -1,5 +1,5 @@
 ---
-gre_id: 554c97f02d
+gre_id: "554c97f02d"
 aliases: [/id/554c97f02d]
 type: garden
 title: House of the Fishpond

@@ -1,5 +1,5 @@
 ---
-gre_id: 1c2b9ebf6d
+gre_id: "1c2b9ebf6d"
 aliases: [/id/1c2b9ebf6d]
 type: garden
 title: VIII.7.1. Caupona

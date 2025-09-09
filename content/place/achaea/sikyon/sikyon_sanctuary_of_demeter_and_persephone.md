@@ -1,5 +1,5 @@
 ---
-gre_id: 4427ca763c
+gre_id: "4427ca763c"
 aliases: [/id/4427ca763c]
 type: garden
 title: Sanctuary of Demeter and Persephone

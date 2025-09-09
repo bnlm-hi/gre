@@ -1,5 +1,5 @@
 ---
-gre_id: d91343fd24
+gre_id: "d91343fd24"
 aliases: [/id/d91343fd24]
 type: garden
 title: Great Palestra (Insula or. II.4)

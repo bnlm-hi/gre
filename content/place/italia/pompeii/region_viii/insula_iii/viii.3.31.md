@@ -1,5 +1,5 @@
 ---
-gre_id: ca821d6045
+gre_id: "ca821d6045"
 aliases: [/id/ca821d6045]
 type: garden
 title: VIII.3.31. Case di Pan

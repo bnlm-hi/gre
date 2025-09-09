@@ -1,5 +1,5 @@
 ---
-gre_id: 2485830a93
+gre_id: "2485830a93"
 aliases: [/id/2485830a93]
 type: garden
 title: The House of the Lion

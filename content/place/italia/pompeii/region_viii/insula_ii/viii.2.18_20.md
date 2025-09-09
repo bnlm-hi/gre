@@ -1,5 +1,5 @@
 ---
-gre_id: ba78007c9e
+gre_id: "ba78007c9e"
 aliases: [/id/ba78007c9e]
 type: garden
 title: VIII.2.18-20.

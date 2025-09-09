@@ -1,5 +1,5 @@
 ---
-gre_id: 470d20177b
+gre_id: "470d20177b"
 aliases: [/id/470d20177b]
 type: garden
 title: Casa A Graticcio

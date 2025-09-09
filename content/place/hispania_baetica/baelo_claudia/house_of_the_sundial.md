@@ -1,5 +1,5 @@
 ---
-gre_id: 9d2ae5751f
+gre_id: "9d2ae5751f"
 aliases: [/id/9d2ae5751f]
 type: garden
 title: House of the Sundial

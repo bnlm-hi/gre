@@ -1,5 +1,5 @@
 ---
-gre_id: 19dff800ff
+gre_id: "19dff800ff"
 aliases: [/id/19dff800ff]
 type: garden
 title: House of the Swastika Mosaic

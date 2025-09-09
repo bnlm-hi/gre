@@ -1,5 +1,5 @@
 ---
-gre_id: c0650573df
+gre_id: "c0650573df"
 aliases: [/id/c0650573df]
 type: garden
 title: Temple Garden, Sanctuary of Asklepios

@@ -1,5 +1,5 @@
 ---
-gre_id: 857e5462b7
+gre_id: "857e5462b7"
 aliases: [/id/857e5462b7]
 type: garden
 title: House of the Silver Bust, La Vilasse Quarter

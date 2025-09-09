@@ -1,5 +1,5 @@
 ---
-gre_id: 4624d2d32a
+gre_id: "4624d2d32a"
 aliases: [/id/4624d2d32a]
 type: garden
 title: Aphrodisias (Lelégōn Pólis,Megálē Pólis, Ninóē, Stauroúpolis)

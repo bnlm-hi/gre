@@ -1,5 +1,5 @@
 ---
-gre_id: f3e5a4f149
+gre_id: "f3e5a4f149"
 aliases: [/id/f3e5a4f149]
 type: garden
 title: Sanctuary B, the templa Concordiae

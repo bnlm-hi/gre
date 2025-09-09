@@ -1,5 +1,5 @@
 ---
-gre_id: 99193ac2fa
+gre_id: "99193ac2fa"
 aliases: [/id/99193ac2fa]
 type: garden
 title: Rural Villa in Sudeley/Spoonley Wood

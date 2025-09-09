@@ -1,5 +1,5 @@
 ---
-gre_id: e34f58deaf
+gre_id: "e34f58deaf"
 aliases: [/id/e34f58deaf]
 type: garden
 title: Rural Villa in Winkel-Seeb

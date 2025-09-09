@@ -1,5 +1,5 @@
 ---
-gre_id: ef01be796c
+gre_id: "ef01be796c"
 aliases: [/id/ef01be796c]
 type: garden
 title: Rural Villa in Winden Am See

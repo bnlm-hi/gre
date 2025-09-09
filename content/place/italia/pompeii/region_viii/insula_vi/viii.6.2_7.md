@@ -1,5 +1,5 @@
 ---
-gre_id: d1863ce1ab
+gre_id: "d1863ce1ab"
 aliases: [/id/d1863ce1ab]
 type: garden
 title: VIII.6.2/7. (no. 12 at Pompeii)

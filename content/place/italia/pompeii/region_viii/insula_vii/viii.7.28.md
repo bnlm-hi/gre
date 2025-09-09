@@ -1,5 +1,5 @@
 ---
-gre_id: 27ac79ecb5
+gre_id: "27ac79ecb5"
 aliases: [/id/27ac79ecb5]
 type: garden
 title: VIII.7.28. Temple of Isis

@@ -1,5 +1,5 @@
 ---
-gre_id: 70c1807d8f
+gre_id: "70c1807d8f"
 aliases: [/id/70c1807d8f]
 type: garden
 title: Guest House 2

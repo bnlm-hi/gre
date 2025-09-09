@@ -1,5 +1,5 @@
 ---
-gre_id: 1a0671dab2
+gre_id: "1a0671dab2"
 aliases: [/id/1a0671dab2]
 type: garden
 title: The so-called Inferi Nymphaeum (Fig. 1, n. 23)

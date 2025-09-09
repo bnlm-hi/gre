@@ -1,5 +1,5 @@
 ---
-gre_id: cdb21753ee
+gre_id: "cdb21753ee"
 aliases: [/id/cdb21753ee]
 type: garden
 title: Hermaphrodite House (Maison de l'Hermaphrodite)

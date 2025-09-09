@@ -1,5 +1,5 @@
 ---
-gre_id: 858cfbe95d
+gre_id: "858cfbe95d"
 aliases: [/id/858cfbe95d]
 type: garden
 title: The Gordian Palace (Le palais dit de Gordien)

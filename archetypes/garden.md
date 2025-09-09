@@ -1,6 +1,6 @@
 ---
 {{- $id := substr (sha256 now) 0 10 }}
-gre_id: {{ $id }}
+gre_id: "{{ $id }}"
 aliases: [/id/{{ $id }}]
 type: garden
 title: {{ title (replaceRE `[-_]` " " .Name) }}

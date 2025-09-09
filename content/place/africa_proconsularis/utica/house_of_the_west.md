@@ -1,5 +1,5 @@
 ---
-gre_id: c3caa55c41
+gre_id: "c3caa55c41"
 aliases: [/id/c3caa55c41]
 type: garden
 title: House of the West (Maison de l'est)

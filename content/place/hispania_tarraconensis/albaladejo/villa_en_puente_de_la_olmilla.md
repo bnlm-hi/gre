@@ -1,5 +1,5 @@
 ---
-gre_id: 3153042981
+gre_id: "3153042981"
 aliases: [/id/3153042981]
 type: garden
 title: Villa en Puente de la Olmilla

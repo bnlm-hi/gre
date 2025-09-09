@@ -1,5 +1,5 @@
 ---
-gre_id: 088b48cadc
+gre_id: "088b48cadc"
 aliases: [/id/088b48cadc]
 type: place
 title: Arausio

@@ -1,5 +1,5 @@
 ---
-gre_id: c538942469
+gre_id: "c538942469"
 aliases: [/id/c538942469]
 type: garden
 title: I.6.13 House of Stallus Eros

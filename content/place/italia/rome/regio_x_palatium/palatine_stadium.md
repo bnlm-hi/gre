@@ -1,5 +1,5 @@
 ---
-gre_id: 1d89c56774
+gre_id: "1d89c56774"
 aliases: [/id/1d89c56774]
 type: garden
 title: The Palatine 'Stadium'

@@ -1,5 +1,5 @@
 ---
-gre_id: 545e2e06a2
+gre_id: "545e2e06a2"
 aliases: [/id/545e2e06a2]
 type: garden
 title: Shrine of the Fates

@@ -1,5 +1,5 @@
 ---
-gre_id: fa12f663dc
+gre_id: "fa12f663dc"
 aliases: [/id/fa12f663dc]
 type: garden
 title: House of Amor and Psyche

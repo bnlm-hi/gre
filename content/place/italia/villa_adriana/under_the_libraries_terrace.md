@@ -1,5 +1,5 @@
 ---
-gre_id: d1833d7456
+gre_id: "d1833d7456"
 aliases: [/id/d1833d7456]
 type: garden
 title: Garden arrangement under the Libraries' terrace (Fig. 1, n. 9)

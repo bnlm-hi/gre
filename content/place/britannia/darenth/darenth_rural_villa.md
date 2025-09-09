@@ -1,5 +1,5 @@
 ---
-gre_id: 19c1b644fb
+gre_id: "19c1b644fb"
 aliases: [/id/19c1b644fb]
 type: garden
 title: Rural Villa in Darenth

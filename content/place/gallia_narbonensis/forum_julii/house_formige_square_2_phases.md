@@ -1,5 +1,5 @@
 ---
-gre_id: 50dac00f2c
+gre_id: "50dac00f2c"
 aliases: [/id/50dac00f2c]
 type: garden
 title: House Formigé Square - 2 phases

@@ -1,5 +1,5 @@
 ---
-gre_id: b758b14e74
+gre_id: "b758b14e74"
 aliases: [/id/b758b14e74]
 type: garden
 title: House of the Black and White Triclinium (Maison du triclinium en noir et blanc)

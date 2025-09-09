@@ -1,5 +1,5 @@
 ---
-gre_id: 278abf125d
+gre_id: "278abf125d"
 aliases: [/id/278abf125d]
 type: garden
 title: theaters

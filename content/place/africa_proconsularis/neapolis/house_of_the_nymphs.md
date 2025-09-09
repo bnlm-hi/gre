@@ -1,5 +1,5 @@
 ---
-gre_id: f1728557d2
+gre_id: "f1728557d2"
 aliases: [/id/f1728557d2]
 type: garden
 title: House of the Nymphs (Maison des Nymphes)

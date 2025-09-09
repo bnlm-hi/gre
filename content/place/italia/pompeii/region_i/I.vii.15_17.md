@@ -1,5 +1,5 @@
 ---
-gre_id: 56fc447964
+gre_id: "56fc447964"
 aliases: [/id/56fc447964]
 type: garden
 title: I.7.15-17 Shop-House

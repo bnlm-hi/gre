@@ -1,5 +1,5 @@
 ---
-gre_id: cd3efe11fb
+gre_id: "cd3efe11fb"
 aliases: [/id/cd3efe11fb]
 type: garden
 title: Inscription from the former Aptel Estate

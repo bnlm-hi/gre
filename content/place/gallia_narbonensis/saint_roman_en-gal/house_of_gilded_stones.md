@@ -1,5 +1,5 @@
 ---
-gre_id: 14f5da05a7
+gre_id: "14f5da05a7"
 aliases: [/id/14f5da05a7]
 type: garden
 title: House of Gilded Stones

@@ -1,5 +1,5 @@
 ---
-gre_id: 7b685f973b
+gre_id: "7b685f973b"
 aliases: [/id/7b685f973b]
 type: garden
 title: House A, Piazza della Vittoria

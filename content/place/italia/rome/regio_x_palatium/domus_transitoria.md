@@ -1,5 +1,5 @@
 ---
-gre_id: 5b1b3c0848
+gre_id: "5b1b3c0848"
 aliases: [/id/5b1b3c0848]
 type: garden
 title: Neronian Palace

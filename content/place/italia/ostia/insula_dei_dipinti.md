@@ -1,5 +1,5 @@
 ---
-gre_id: 1f6d3e89b7
+gre_id: "1f6d3e89b7"
 aliases: [/id/1f6d3e89b7]
 type: garden
 title: Insula dei Dipinti
