@@ -6,7 +6,7 @@ draft: false
 ---
 
 <!-- position title, institution -->
-Head, ISAW Library
+Head, ISAW Library (Institute for the Study of the Ancient World)
 Associate Professor of Ancient Studies
 
 

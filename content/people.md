@@ -50,7 +50,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 #### Achaea
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Aegyptus
 - *Roger S. Bagnall*, ISAW/NYU
@@ -86,7 +86,7 @@ We gratefully acknowledge our past editors and the many volunteer and student as
 
 #### Britannia
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Cappadocia
 - [Catherine Kearns](catherine-kearns)\*\*, University of Chicago
@@ -152,11 +152,11 @@ AOROC UMR 8546 CNRS-ENS-PSL
 
 #### Germania Inferior
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Germania Superior
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Hispania Tarraconensis
 - *Trinidad Nogales Basarreta*
@@ -212,7 +212,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 
 #### Macedonia
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Mauretania
 - [Amina-Aïcha Malek](amina-aicha-malek)\*\*, AOROC, CNRS ENS PSL
@@ -230,7 +230,7 @@ AOROC UMR 8546 CNRS-ENS-PSL
 
 #### Noricum
 - [Maureen Carroll](maureen-carroll)\*\*, University of York
-- Jane Millar, University of Texas, Austin
+- [Jane Millar](jane-millar), University of Texas, Austin
 
 #### Numidia
 - [Amina-Aïcha Malek](amina-aicha-malek)\*\*, AOROC, CNRS ENS PSL

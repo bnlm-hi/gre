@@ -1,7 +1,7 @@
 ---
 title: Jane Millar
 date: 2025-06-18
-draft: true
+draft: false
 ---
 
 University of Texas, Austin

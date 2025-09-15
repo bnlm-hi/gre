@@ -18,7 +18,9 @@
 		</div>
 
         {{ $person := .Params.Title }}
-        {{ $pages := where .Site.Pages ".Params.Author" $person }}
+        
+        {{/* list authored garden and place pages */}}
+        {{ $pages := where (where .Site.Pages ".Params.Author" $person) ".Type" "like" "garden|place" }}
         {{ if $pages }}
             <h2>Author of</h2>
             <ul class="people-gardens">
@@ -28,7 +30,8 @@
             </ul>
         {{ end }}
 
-        {{ $pages := where .Site.Pages ".Params.Contributor" $person }}
+        {{/* list contributions to garden and place pages */}}
+        {{ $pages := where (where .Site.Pages ".Params.Contributor" $person) ".Type" "like" "garden|place" }}
         {{ if $pages }}
             <h2>Contributor to</h2>
             <ul class="people-gardens">
